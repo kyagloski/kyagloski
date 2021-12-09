@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Kyle Yagloski
-- 👀 I’m interested in microcontroller programming
-- 🌱 I’m currently learning to stay sane
-- 📫 How to reach me kyleyagloski@gmail
+- 📫 You can reach me kyleyagloski@gmail.com
 
 <!---
 kyagloski/kyagloski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
